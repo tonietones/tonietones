@@ -15,5 +15,5 @@ I'm a Software Engineer, product manager, and Community Engineer who is currentl
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Anthony&show_icons=true&include_all_commits=true&hide_border=true" alt="Anthony's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anthony&langs_count=8&layout=compact&hide_border=true" alt="Anthony's GitHub stats" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=anthony&show_icons=true&include_all_commits=true&hide_border=true" alt="Anthony's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthony&langs_count=8&layout=compact&hide_border=true" alt="Anthony's GitHub stats" /> |
 | ------------- | ------------- |
