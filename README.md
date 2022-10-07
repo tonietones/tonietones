@@ -17,3 +17,7 @@ I'm a Software Engineer, product manager, and Community Engineer who is currentl
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=tonietones&show_icons=true&include_all_commits=true&hide_border=true" alt="Anthony's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonietones&langs_count=8&layout=compact&hide_border=true" alt="Anthony's GitHub stats" /> |
 | ------------- | ------------- |
+
+<!-- ![counter](https://ennjviprh19fs24.m.pipedream.net) -->
+> You're visitor<br>
+![](https://komarev.com/ghpvc/?username=philemonnwanne&color=orange&label=⌗)
