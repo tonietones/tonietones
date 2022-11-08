@@ -24,5 +24,5 @@ I'm a Software Engineer, product manager, and Community Engineer who is currentl
 
 <!-- ![counter](https://ennjviprh19fs24.m.pipedream.net) -->
 > You're visitor<br>
-![](https://komarev.com/ghpvc/?username=tonietones&color=purple&label=⌗)
+![](https://komarev.com/ghpvc/?username=tonietones&color=yellow&label=⌗)
 
